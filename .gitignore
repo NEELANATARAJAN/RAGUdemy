@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+uv.lock
+
+.DS_Store
+
+*.csv
+*.docx
+*.pdf
+*.txt
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.db
+*.sqlite
+*.log
+*.env
