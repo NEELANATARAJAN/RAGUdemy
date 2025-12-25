@@ -1,0 +1,21 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
+chromadb
+pypdf
+python-dotenv
+pymupdf
+python-docx
+docx2txt
+unstructured[docx]
+pandas
+openpyxl
+msoffcrypto-tool
+jq
+matplotlib
+## Embeddings
+langchain-huggingface
+sentence-transformers
