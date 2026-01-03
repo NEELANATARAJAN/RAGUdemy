@@ -26,3 +26,10 @@ uv.lock
 *.log
 *.env
 *.jsonl
+*.sqlite3
+*.ckpt
+*.bin
+*.txt
+chroma_db/
+*.faiss
+*.pkl
