@@ -16,6 +16,8 @@ openpyxl
 msoffcrypto-tool
 jq
 matplotlib
+astrapy
+langchain-astradb
 ## Embeddings
 langchain-huggingface
 sentence-transformers
