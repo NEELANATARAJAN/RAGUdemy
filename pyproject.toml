@@ -17,6 +17,7 @@ dependencies = [
     "langchain-groq>=1.1.1",
     "langchain-huggingface>=1.2.0",
     "langchain-openai>=1.1.6",
+    "langchain-pinecone>=0.2.13",
     "langchain-text-splitters>=1.1.0",
     "matplotlib>=3.10.8",
     "msoffcrypto-tool>=5.4.2",

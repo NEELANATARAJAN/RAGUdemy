@@ -18,6 +18,7 @@ jq
 matplotlib
 astrapy
 langchain-astradb
+langchain-pinecone
 ## Embeddings
 langchain-huggingface
 sentence-transformers
