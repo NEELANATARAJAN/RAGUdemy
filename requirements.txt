@@ -22,3 +22,4 @@ langchain-pinecone
 ## Embeddings
 langchain-huggingface
 sentence-transformers
+langchain-experimental
